@@ -1,0 +1,2 @@
+A simple tool that tails /var/log/maillog and outputs statistics in
+/var/log/pfstats
